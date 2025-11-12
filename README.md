@@ -26,7 +26,8 @@ If you want to run or modify the code yourself:
 
 **Steps:**
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd chessgame
-javac -d bin src/**/*.java
-java -cp bin com.yourpackage.Main
+git clone https://github.com/abhijitht2002/java-chess.git
+cd java-chess
+javac -d bin src/main/**/*.java
+java -cp bin com.chess.Main
+```
